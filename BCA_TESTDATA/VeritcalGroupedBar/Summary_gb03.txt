@@ -1,0 +1,1 @@
+The plot depicts a Vertical Grouped Bar Graph illustrating City Temperature. The plot is having Temperature (*C) on y-axis for summer, and winter. The list of 'X-axis' values is City A, City B, City C, City D, and City E. The 'summer' range from 20.92 to 39.44, with a standard deviation of 6.31. The 'winter' range from 4.84 to 9.25, with a standard deviation of 1.68
