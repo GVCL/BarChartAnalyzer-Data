@@ -1,0 +1,2 @@
+The plot depicts a Vertical Grouped Bar Graph.  The plot is between Weight on y-axis over Date on the x-axis for c39, and c52.  The Weight of c39 are 3.17, 2.79, and 2.72 for the Date d16, d20, and d21 respectively.  The Weight of c52 are 2.25, 3.09, and 1.47 for the Date d16, d20, and d21 respectively.
+ The Weight difference between c39 and c52 starts with 0 at Date d16 then declines till d20 the minimum value, and finally ends with 1 in d21 the maximum value.

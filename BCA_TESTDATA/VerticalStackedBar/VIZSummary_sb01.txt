@@ -1,0 +1,2 @@
+The plot depicts a Vertical Stacked Bar Graph for brand c, brand b, and brand a.  The brand c has its maximum and minimum values 80 and 0 at age, and June respectively.  The brand b has its maximum and minimum values 80 and 0 at June, and mar respectively.  The brand a has its maximum and minimum values 89 and 0 at age, and Apr respectively.
+ The all categories cumulatively has its maximum and minimum values 242 and 0 at age, and may respectively.

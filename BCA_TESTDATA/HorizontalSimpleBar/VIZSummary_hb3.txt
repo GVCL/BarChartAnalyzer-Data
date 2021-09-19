@@ -1,0 +1,1 @@
+The plot depicts a Horizontal Simple Bar Graph illustrating Abortion Rate among different age groups.  The plot is between Age on y-axis over Abortion rate on the x-axis.  In the Age ranging form 15-40 at the interval 5, the Abortion rate are 22.8, 35.4, 24.2, 16.07, 11.07, and 3.73 respectively.

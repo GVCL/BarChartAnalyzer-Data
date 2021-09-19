@@ -1,0 +1,1 @@
+The plot depicts a Vertical Grouped Bar Graph.  The plot is between the count on y-axis over Sport on the x-axis for female, and male.  The count of female has its maximum and minimum values 23 and 0 at netball, and wpolo respectively.  The count of the male has its maximum and minimum values 18 and 0 at t400m, and gym respectively.

@@ -1,0 +1,1 @@
+The plot depicts a Histogram illustrating the frequency of 'Position of muscle cavil'.  The frequency has its maximum and minimum values 13 and 5 at 25, and 254 respectively.

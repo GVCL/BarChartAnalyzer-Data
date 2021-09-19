@@ -1,0 +1,1 @@
+The plot depicts a Histogram illustrating the frequency of 'Heights of New York Choral Society Singers'.  The frequency starts with 27 in Height 61 then increases till 66 the maximum value, and ends with a decreasing trend till 75 the minimum value.
